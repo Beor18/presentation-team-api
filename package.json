@@ -1,0 +1,19 @@
+{
+  "name": "presentation-fazt-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck presentation.mdx",
+    "build": "mdx-deck build presentation.mdx"
+  },
+  "keywords": [],
+  "author": "Fernando Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^1.6.4"
+  },
+  "dependencies": {
+    "react-live": "^1.11.0"
+  }
+}
